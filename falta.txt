@@ -1,0 +1,46 @@
+
+ #EXTM3U
+#EXTINF:-1,Arena Sport1
+http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport2
+http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport3
+http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8
+#EXTINF:-1,Esportivo Inteligente
+http://195.230.24.166:1935/live/898953smartspor.stream/playlist.m3u8
+#EXTINF:-1,Esperto Inteligente2
+http://195.230.24.166:1935/live/898953smartspor2.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 3 HD
+http://195.230.24.166:1935/live/898953beins3.stream/playlist.m3u8
+#EXTINF:-1,M4 Esporte
+http://195.230.24.166:1935/live/898953m4sport.stream/playlist.m3u8
+#EXTINF:-1,Viasat Natureza HD
+http://195.230.24.166:1935/live/898953discoverytr.stream/playlist.m3u8
+#EXTINF:-1,National Geographic HD
+http://195.230.24.166:1935/live/898953nationalgeographic.stream/playlist.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://195.230.24.166:1935/live/898953nationalwild.stream/playlist.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://188.165.46.79:1935/live/898953eurosport22.stream/playlist.m3u8
+#EXTINF:-1,Bein Esporte 1 HD
+http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 2 HD
+http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
+#EXTINF:-1,a Spor HD
+http://188.165.46.79:1935/live/898953aspor.stream/playlist.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8
+#EXTINF:-1,Sky Sport 2
+http://188.165.46.79:1935/live/898953skysports2.stream/playlist.m3u8
+#EXTINF:-1,Lig TV 1
+http://188.165.46.79:1935/live/898953oneliveligtv.stream/playlist.m3u8
+#EXTINF:-1,Lig TV 2
+http://188.165.46.79:1935/live/898953sportoto1.stream/playlist.m3u8
+#EXTINF:-1,Lig TV 3
+http://188.165.46.79:1935/live/898953ligtv3.stream/playlist.m3u8
+#EXTINF:-1,Tivibu Spor
+http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8
+#EXTINF:-1,Tivibu Spor2
+http://188.165.46.79:1935/live/898953tivibuspor2.stream/playlist.m3u8
+#EXTINF:-1,NBA TV
+http://188.165.46.79:1935/live/898953nba.stream/playlist.m3u8
